@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @youssef-hasan
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in programing but rather made of it
+
+- 🌱 I’m currently learning HDML but I am not natural at it 
 - 📫 How to reach me send me a gmail
 
 <!---
